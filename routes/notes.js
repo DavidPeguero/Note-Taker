@@ -7,7 +7,6 @@ note.get('/', (req, res) => {
 })
 
 note.post('/', (req, res) => {
-    // TODO: Logic for appending data to the db/db.json file
     console.log(req.body);
 
     const { title, text } = req.body;
