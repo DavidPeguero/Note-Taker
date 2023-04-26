@@ -39,6 +39,7 @@ note.delete('/:id', (req, res) => {
         });
         //Log the results
         writeToFile('./db/db.json', results);
+        res.json(`Successully deleted Note of ${id}`)
     })
 });
 
