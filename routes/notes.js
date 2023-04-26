@@ -37,7 +37,7 @@ note.delete('/:id', (req, res) => {
             console.log(note.id)
             return note.id !== id
         });
-        console.log(results)
+        //Log the results
         writeToFile('./db/db.json', results);
     })
 });
