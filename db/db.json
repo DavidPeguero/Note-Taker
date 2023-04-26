@@ -1,22 +1,17 @@
 [
     {
+        "id": 1,
         "title": "Test Title",
         "text": "Test text"
     },
     {
-        "title": "Success Title",
-        "text": "Success Text"
+        "id": 2,
+        "title": "qwe",
+        "text": "qweqweqwe"
     },
     {
-        "title": "New NOTE",
-        "text": "sadfsdflj"
-    },
-    {
-        "title": "New NOTE",
-        "text": "sadfsdflj"
-    },
-    {
-        "title": "sdfa",
-        "text": "sdf"
+        "id": 3,
+        "title": "qweqwe",
+        "text": "qweqwe"
     }
 ]
