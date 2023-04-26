@@ -42,7 +42,7 @@ note.delete('/:id', (req, res) => {
             return note.id !== id
         });
         console.log(results)
-        writeToFile('./db/db.json', JSON.stringify(newData));
+        writeToFile('./db/db.json', results);
     })
 });
 
