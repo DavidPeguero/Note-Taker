@@ -2,7 +2,9 @@
   # Note Taker
   [![](https://img.shields.io/badge/license-MIT-blue)](https://www.mend.io/resources/blog/top-open-source-licenses-explained/#MIT_License)
   ## Description
-  A tool to save notes online and reference  them laters; it also has the ability to save the data persistently and delete it. 
+  A tool to save notes online and reference  them laters; it also has the ability to save the data persistently and delete it.
+
+  [Link to deployed site](https://intense-oasis-15694.herokuapp.com/)
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
