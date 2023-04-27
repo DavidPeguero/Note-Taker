@@ -5,6 +5,13 @@
   A tool to save notes online and reference  them laters; it also has the ability to save the data persistently and delete it.
 
   [Link to deployed site](https://intense-oasis-15694.herokuapp.com/)
+
+
+  #### Homepage
+  ![](./images/note-taker1.png)
+
+  #### Note Taking/Viewing Screen
+  ![](./images/note-taker2.png)
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
