@@ -51,7 +51,6 @@ const deleteNote = (id) =>
   });
 
 const renderActiveNote = () => {
-  //When you click an active note show save button
   hide(saveNoteBtn);
   if (activeNote.title) {
     console.log()
